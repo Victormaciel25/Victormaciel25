@@ -5,7 +5,7 @@
 #💻 I am a technology enthusiast and always seek to practice.<br/>
 #💁🏽‍♂️ Here you will find a student exploring languages ​​such as: JavaScript and Python.<br/>
 
-![Victor Maciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victormaciel25&show_icons=true&theme=radical)
+![Victor Maciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victormaciel25&show_icons=true&theme=tokyonight)
 
 ### Technologies I use in my day
 
