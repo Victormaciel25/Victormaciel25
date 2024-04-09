@@ -1,9 +1,9 @@
-### Hi there
-# I'm Victor Maciel, have 25 years old, living in RJ, aspiring Junior Dev.✌️
+## Hi there!
+## I'm Victor Maciel, have 25 years old, living in RJ, aspiring Junior Dev.✌️
 
-#🎓 I am a Analysis and Systems Development at Descomplica.<br/>
-#💻 I am a technology enthusiast and always seek to practice.<br/>
-#💁🏽‍♂️ Here you will find a student exploring languages ​​such as: JavaScript and Python.<br/>
+🎓 I am a Analysis and Systems Development at Descomplica.<br/>
+💻 I am a technology enthusiast and always seek to practice.<br/>
+💁🏽‍♂️ Here you will find a student exploring languages ​​such as: JavaScript and Python.<br/>
 
 ![Victor Maciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victormaciel25&show_icons=true&theme=tokyonight)
 
